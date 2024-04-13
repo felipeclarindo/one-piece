@@ -24,6 +24,13 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 - **`src/css`**: Contém os arquivos CSS para estilização.
 - **`src/js`**: Contém o arquivo JavaScript para funcionalidades interativas.
 
+## Autor
+
+ **Felipe Clarindo**
+  - [LinkedIn](https://www.linkedin.com/in/felipeclarindo-934578289/)
+  - [Instagram](https://www.instagram.com/lipetegoat)
+  - [GitHub](https://github.com/felipeclarindo)
+
 ## Créditos
 
 Este projeto foi desenvolvido com base no conteúdo da "Semana do Zero ao Programador Contratado", organizado pela Dev em Dobro.

@@ -27,8 +27,8 @@ git clone https://github.com/felipeclarindo/one-piece.git
 ## Autor
 
 Desenvolvido por **Felipe Clarindo**
-  - [LinkedIn](https://www.linkedin.com/in/felipeclarindo-934578289/)
-  - [Instagram](https://www.instagram.com/lipetegoat)
+  - [LinkedIn](https://www.linkedin.com/in/felipeclarindo)
+  - [Instagram](https://www.instagram.com/lipethecoder)
   - [GitHub](https://github.com/felipeclarindo)
 
 ## Créditos
